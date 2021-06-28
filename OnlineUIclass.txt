@@ -1,0 +1,12 @@
+https://git-scm.com/downloads
+
+commands:
+
+git status
+git add .
+git status
+git commit -m "Commit message"
+git push 
+
+
+https://github.com/mutkurebharat/BatchJune
